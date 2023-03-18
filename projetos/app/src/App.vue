@@ -6,10 +6,10 @@
           <router-link to="/" class="navbar-brand float-left">12956-Vue</router-link>
           <ul class="nav navbar-nav flex-row float-right">
             <li class="nav-item">
-              <router-link to="/" class="nav-link px-3">Novo Contato</router-link>
+              <router-link to="/" class="nav-link px-3">Novo Produto</router-link>
             </li>
             <li class="nav-item">
-              <router-link to="/view" class="nav-link">Listar Contatos</router-link>
+              <router-link to="/view" class="nav-link">Listar Produtos</router-link>
             </li>
           </ul>
         </div>
